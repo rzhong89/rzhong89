@@ -4,10 +4,25 @@
 
 <h2 align="center"> About Me</h2>
 <p align="center">
-  <samp>I'm a junior at the University of Maryland, College Park, studying Computer Science and Finance with a passion for using my skills to solve problems that have real-world impact.
+  <samp>I'm a <b>junior</b> at the <b>University of Maryland, College Park</b>, studying <b>Computer Science</b> and <b>Finance</b> with a passion for using my skills to solve problems that have real-world impact.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=rzhong89" alt="https://github.com/rzh" />
+</p>
+
+<hr>
+
+<h2 align="center"> Currently Working On</h2>
+<p align="center">
+  <samp>
+  I'm currently a <b>Backend Engineer Intern</b> at <b>Sorcea Labs</b> where I'm:
+  <br><br>
+  Developing and maintaining backend systems.
+  <br>
+  Working with machine learning models.
+  <br>
+  Contributing to a fast-paced and innovative team.
+  </samp>
 </p>
 
 <hr>
@@ -49,10 +64,11 @@
 
 <hr>
 
-<h2  align="center"> Reach Me On</h2>
+<h2 align="center"> Links</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/ryan-zhong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rzhong@umd.edu?subject=Hello%20Ryan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://drive.google.com/file/d/1j-PbK2H_XWAAM3-6dVFsLqMdQfJL96H_/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
 </p>
 
 <hr>
