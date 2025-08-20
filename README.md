@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/rzhong89/rzhong89/blob/b3eedfa1deb46fc5e58b6d14dbbe53d4f7a7b5a2/image/profile.gif" alt="header"/>
+  <img src="https://github.com/rzhong89/rzhong89/blob/ba3d45f5785bd388a9392cd1b685671cdc591327/image/header.gif" alt="header"/>
 </div>
 
 <h2 align="center"> About Me</h2>
