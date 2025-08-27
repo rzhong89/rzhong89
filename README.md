@@ -68,7 +68,7 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/ryan-zhong/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rzhong@umd.edu?subject=Hello%20Ryan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://drive.google.com/file/d/1j-PbK2H_XWAAM3-6dVFsLqMdQfJL96H_/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+  <a target="_blank" href="https://drive.google.com/file/d/1ALo3y_3aYCXdE5U0QPxO9tO9uQwvSS9b/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
 </p>
 
 <hr>
