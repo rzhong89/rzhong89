@@ -15,13 +15,7 @@
 <h2 align="center"> Currently Working On</h2>
 <p align="center">
   <samp>
-  I'm currently a <b>Backend Engineer Intern</b> at <b>Sorcea Labs</b> where I'm:
-  <br><br>
-  Developing and maintaining backend systems.
-  <br>
-  Working with machine learning models.
-  <br>
-  Contributing to a fast-paced and innovative team.
+  I'm currently a Software Engineer Intern at Amazon Web Services working on Elasticache.
   </samp>
 </p>
 
