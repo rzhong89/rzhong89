@@ -15,7 +15,7 @@
 <h2 align="center"> Currently Working On</h2>
 <p align="center">
   <samp>
-  I'm currently a Software Engineer Intern at Amazon Web Services working on Elasticache.
+  I'm currently a Software Engineer Intern at Amazon Web Services working on the Elasticache Control Plane team.
   </samp>
 </p>
 
