@@ -4,7 +4,7 @@
 
 <h2 align="center"> About Me</h2>
 <p align="center">
-  <samp>I'm a <b>junior</b> at the <b>University of Maryland, College Park</b>, studying <b>Computer Science</b> and <b>Finance</b> with a passion for using my skills to solve problems that have real-world impact.
+  <samp>I'm a <b>senior</b> at the <b>University of Maryland, College Park</b>, studying <b>Computer Science</b> and <b>Finance</b> with a passion for using my skills to solve problems that have real-world impact.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=rzhong89" alt="https://github.com/rzh" />
